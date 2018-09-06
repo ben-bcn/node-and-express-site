@@ -1,0 +1,94 @@
+{
+    "projects": [
+      {
+        "id"  : 0,
+        "project_name": "The first Project",
+        "description": "This is where the description goes.",
+        "technologies": [
+            "JavaScript",
+            "Nodejs",
+            "Express"
+          ],
+        "live_link": "/projects/1",
+        "github_link": "https://github.com/ben-bcn/node-and-express-site.git",
+        "hero_img": "/static/img/img-1.jpg",
+        "image_urls": [
+            "/static/img/img-1.jpg",
+            "/static/img/img-2.jpg",
+            "/static/img/img-3.jpg"
+            ]
+          },
+      {
+        "id"  : 1,
+        "project_name": "The Second Project",
+        "description": "This is where the 2nd description goes.",
+        "technologies": [
+            "JavaScript",
+            "Nodejs",
+            "Express"
+          ],
+        "live_link": "/projects/2",
+        "github_link": "https://github.com/ben-bcn/node-and-express-site.git",
+        "hero_img": "/static/img/img-2.jpg",
+        "image_urls": [
+            "/static/img/img-3.jpg",
+            "/static/img/img-2.jpg",
+            "/static/img/img-1.jpg"
+            ]
+          },
+      {
+        "id"  : 2,
+        "project_name": "The Third Project",
+        "description": "This is where the 3rd description goes.",
+        "technologies": [
+            "JavaScript",
+            "Nodejs",
+            "Express"
+          ],
+        "live_link": "/projects/3",
+        "github_link": "https://github.com/ben-bcn/node-and-express-site.git",
+        "hero_img": "/static/img/img-3.jpg",
+        "image_urls": [
+            "/static/img/img-3.jpg",
+            "/static/img/img-2.jpg",
+            "/static/img/img-1.jpg"
+            ]
+          },
+      {
+        "id"  : 3,
+        "project_name": "The Fourth Project",
+        "description": "This is where the 4th description goes.",
+        "technologies": [
+            "JavaScript",
+            "Nodejs",
+            "Express"
+          ],
+        "live_link": "/projects/3",
+        "github_link": "https://github.com/ben-bcn/node-and-express-site.git",
+        "hero_img": "/static/img/img-2.jpg",
+        "image_urls": [
+            "/static/img/img-3.jpg",
+            "/static/img/img-2.jpg",
+            "/static/img/img-1.jpg"
+            ]
+          },
+      {
+        "id"  : 4,
+        "project_name": "The Fifth Project",
+        "description": "This is where the 5th description goes.",
+        "technologies": [
+            "JavaScript",
+            "Nodejs",
+            "Express"
+          ],
+        "live_link": "/projects/4",
+        "github_link": "https://github.com/ben-bcn/node-and-express-site.git",
+        "hero_img": "/static/img/img-1.jpg",
+        "image_urls": [
+            "/static/img/img-1.jpg",
+            "/static/img/img-2.jpg",
+            "/static/img/img-3.jpg"
+            ]
+          }
+        ]
+}

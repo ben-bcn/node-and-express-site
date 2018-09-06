@@ -1,0 +1,41 @@
+extends layout.pug
+
+block content
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back
+  article.grid-container.portfolio-intro.portfolio-project
+    .grid-x
+      .cell.small-6.medium-9.large-9
+
+        h1 Ben Newton
+
+        p.lead.text-light
+          | Wanna-be Full Stack JS Developer, real life PM.
+
+        .portfolio-bio
+          p
+            | This is not my elevator pitch. True be told I do not have one. I don't want to be a developer,
+            | I just want to understand whats going on.
+      .cell.portfolio-meta.small-6.medium-2.large-3
+        h6 Skills
+
+        //- skills.
+        ul
+          li Express
+          li Other cool stuff
+          li Node JS
+          li jQuery
+          li JavaScript
+          li css
+          li break dancing
+        h6 Contact Info
+
+        ul
+          li 555-6554-1234
+          li not@telling.com
+
+        a.button.expanded(href='https://www.linkedin.com/in/bencnewton/') LinkedIn
+        a.button.expanded(href='https://github.com/ben-bcn') GitHub
+        a.button.expanded(href='https://twitter.com/ben_c_newton') Twitter
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back

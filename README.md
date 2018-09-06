@@ -5,7 +5,8 @@ This is a dummy website which approximates a portfolio website. It runs off Node
 
 As requested, here are the style changes added to the end of style.css
 
-```.portfolio-me {background-color: #333; color: white;}
+```
+.portfolio-me {background-color: #333; color: white;}
 .portfolio-me p, .portfolio-me a, .portfolio-me a:hover {color: white;}
 .portfolio-me a:hover {text-decoration: underline;}
 
